@@ -1,4 +1,7 @@
-# NoticeEvent
+# My Notice Event
+
+Email: 560GeorgeSimeon@gmail.com (You can send email to me if you have any question)
+
 Statistic your time, you can manage your life  
 
 1. Timing gadget
